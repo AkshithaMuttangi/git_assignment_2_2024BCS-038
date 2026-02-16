@@ -3,3 +3,4 @@ Name : Muttangi AKshitha
 Roll number : 2024BCS-038
 Course : Software Engg 
 Semester : IV
+readme updated for issues
